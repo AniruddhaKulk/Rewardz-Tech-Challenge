@@ -9,7 +9,7 @@ As an user I want to be able to see a list of my deliveries, including receivers
   * Protocol
     `HTTPS`
   * Hostname
-    `demo3196012.mockable.io`
+    `demo1354773.mockable.io`
   * Method
     `GET`
   * Endpoint
